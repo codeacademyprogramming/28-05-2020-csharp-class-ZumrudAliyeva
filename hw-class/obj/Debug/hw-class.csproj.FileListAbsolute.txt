@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\hw-class\bin\Debug\hw-class.exe.config
+C:\Users\HP\source\repos\hw-class\bin\Debug\hw-class.exe
+C:\Users\HP\source\repos\hw-class\bin\Debug\hw-class.pdb
+C:\Users\HP\source\repos\hw-class\obj\Debug\hw-class.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\hw-class\obj\Debug\hw-class.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\hw-class\obj\Debug\hw-class.exe
+C:\Users\HP\source\repos\hw-class\obj\Debug\hw-class.pdb
